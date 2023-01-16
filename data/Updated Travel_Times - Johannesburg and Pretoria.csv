@@ -1,0 +1,56 @@
+Origin Movement ID,Origin Display Name,Destination Movement ID,Destination Display Name,Date Range,Mean Travel Time (Seconds),Range - Lower Bound Travel Time (Seconds),Range - Upper Bound Travel Time (Seconds)
+399,"0 Fountain Road, Fordsburg, Johannesburg",2,"0 Marconi Nook, Hennopspark, Centurion","07/31/2016 - 08/28/2016, Every day, Daily Average",1969,1375,2817
+399,"0 Fountain Road, Fordsburg, Johannesburg",26,"0 Voyager Street, Frankenwald, Sandton","07/31/2016 - 08/28/2016, Every day, Daily Average",2666,1085,6550
+399,"0 Fountain Road, Fordsburg, Johannesburg",27,"0 11th Avenue, Sydenham, Johannesburg","07/31/2016 - 08/28/2016, Every day, Daily Average",1169,749,1823
+399,"0 Fountain Road, Fordsburg, Johannesburg",28,"0 Murray Street, Waverley, Johannesburg","07/31/2016 - 08/28/2016, Every day, Daily Average",861,486,1525
+399,"0 Fountain Road, Fordsburg, Johannesburg",30,"0 Lebombo Place, Glenvista, Johannesburg South","07/31/2016 - 08/28/2016, Every day, Daily Average",1020,710,1464
+399,"0 Fountain Road, Fordsburg, Johannesburg",31,"Cayman Road, Olifantsvlei 327-Iq, Johannesburg South","07/31/2016 - 08/28/2016, Every day, Daily Average",947,677,1322
+399,"0 Fountain Road, Fordsburg, Johannesburg",32,"Main Road, Soweto","07/31/2016 - 08/28/2016, Every day, Daily Average",1840,1335,2535
+399,"0 Fountain Road, Fordsburg, Johannesburg",33,"100 East Street, Devland, Soweto","07/31/2016 - 08/28/2016, Every day, Daily Average",844,569,1251
+399,"0 Fountain Road, Fordsburg, Johannesburg",36,"0 Soetdoring Street, Dowerglen, Edenvale","07/31/2016 - 08/28/2016, Every day, Daily Average",1597,912,2795
+399,"0 Fountain Road, Fordsburg, Johannesburg",50,"Mimetic Road, Eikenhof","07/31/2016 - 08/28/2016, Every day, Daily Average",1161,843,1597
+399,"0 Fountain Road, Fordsburg, Johannesburg",57,"Unnamed Road, Eikenhof","07/31/2016 - 08/28/2016, Every day, Daily Average",1226,912,1646
+399,"0 Fountain Road, Fordsburg, Johannesburg",84,"0 Boca Loop, Centurion Golf Estate, Centurion","07/31/2016 - 08/28/2016, Every day, Daily Average",2227,1515,3272
+399,"0 Fountain Road, Fordsburg, Johannesburg",561,"0 Essex Street, Rietfontein 63-Ir, Germiston","07/31/2016 - 08/28/2016, Every day, Daily Average",1121,784,1602
+399,"0 Fountain Road, Fordsburg, Johannesburg",562,"0 Jordaan Street, Eastleigh, Edenvale","07/31/2016 - 08/28/2016, Every day, Daily Average",1078,757,1533
+399,"0 Fountain Road, Fordsburg, Johannesburg",563,"0 10th Avenue, Edenvale, Edenvale","07/31/2016 - 08/28/2016, Every day, Daily Average",1486,940,2348
+399,"0 Fountain Road, Fordsburg, Johannesburg",565,"0 Milner Avenue, Saint Andrews, Germiston","07/31/2016 - 08/28/2016, Every day, Daily Average",919,603,1398
+399,"0 Fountain Road, Fordsburg, Johannesburg",567,"0 Peronne Road, Delville, Germiston","07/31/2016 - 08/28/2016, Every day, Daily Average",1045,685,1592
+399,"0 Fountain Road, Fordsburg, Johannesburg",569,"0 Heron Street, Dowerglen, Edenvale","07/31/2016 - 08/28/2016, Every day, Daily Average",1001,662,1512
+399,"0 Fountain Road, Fordsburg, Johannesburg",570,"0 Koedoe Street, Sunnyridge, Germiston","07/31/2016 - 08/28/2016, Every day, Daily Average",1497,900,2488
+399,"0 Fountain Road, Fordsburg, Johannesburg",571,"0 Bowling Road, Bedfordview, Germiston","07/31/2016 - 08/28/2016, Every day, Daily Average",731,491,1086
+399,"0 Fountain Road, Fordsburg, Johannesburg",572,"0 Cherry Lane, Bedfordview, Germiston","07/31/2016 - 08/28/2016, Every day, Daily Average",769,529,1117
+399,"0 Fountain Road, Fordsburg, Johannesburg",573,"Francois Oberholzer Freeway, Elandsfontein 90-Ir, Germiston","07/31/2016 - 08/28/2016, Every day, Daily Average",542,374,784
+399,"0 Fountain Road, Fordsburg, Johannesburg",574,"0 Simgold Street, Simmerfield, Germiston","07/31/2016 - 08/28/2016, Every day, Daily Average",593,418,841
+399,"0 Fountain Road, Fordsburg, Johannesburg",578,"0 Rand Airport Road, Airport Park, Germiston","07/31/2016 - 08/28/2016, Every day, Daily Average",990,592,1654
+399,"0 Fountain Road, Fordsburg, Johannesburg",579,"0 5th Avenue, Lambton, Germiston","07/31/2016 - 08/28/2016, Every day, Daily Average",1156,773,1727
+399,"0 Fountain Road, Fordsburg, Johannesburg",580,"0 Els Street, Elsburg, Germiston","07/31/2016 - 08/28/2016, Every day, Daily Average",1386,879,2182
+399,"0 Fountain Road, Fordsburg, Johannesburg",583,"0 Davidson Road, Wadeville, Germiston","07/31/2016 - 08/28/2016, Every day, Daily Average",1116,776,1603
+399,"0 Fountain Road, Fordsburg, Johannesburg",584,"0 Black Reef Road, Union, Germiston","07/31/2016 - 08/28/2016, Every day, Daily Average",1028,705,1497
+399,"0 Fountain Road, Fordsburg, Johannesburg",585,"0 Voortrekker Road, South Crest, Alberton","07/31/2016 - 08/28/2016, Every day, Daily Average",933,628,1385
+399,"0 Fountain Road, Fordsburg, Johannesburg",586,"0 Elands Road, Florentia, Alberton","07/31/2016 - 08/28/2016, Every day, Daily Average",1062,646,1743
+399,"0 Fountain Road, Fordsburg, Johannesburg",587,"0 Michelle Avenue, Randhart, Alberton","07/31/2016 - 08/28/2016, Every day, Daily Average",1150,791,1671
+399,"0 Fountain Road, Fordsburg, Johannesburg",588,"0 Woodpecker Close, Meyersdal Nature Estate, Alberton","07/31/2016 - 08/28/2016, Every day, Daily Average",1214,816,1804
+399,"0 Fountain Road, Fordsburg, Johannesburg",589,"0 Begonia Street, Brackenhurst, Alberton","07/31/2016 - 08/28/2016, Every day, Daily Average",1367,758,2462
+399,"0 Fountain Road, Fordsburg, Johannesburg",590,"0 Ruby Street, Mayberry Park, Alberton","07/31/2016 - 08/28/2016, Every day, Daily Average",1361,969,1910
+399,"0 Fountain Road, Fordsburg, Johannesburg",591,"0 Statler Street, Alrode South, Alberton","07/31/2016 - 08/28/2016, Every day, Daily Average",1626,1187,2226
+399,"0 Fountain Road, Fordsburg, Johannesburg",592,"100 Binda Street, Credi, Katlehong","07/31/2016 - 08/28/2016, Every day, Daily Average",1213,797,1844
+399,"0 Fountain Road, Fordsburg, Johannesburg",594,"Barry Marais Road, Boksburg, Boksburg","07/31/2016 - 08/28/2016, Every day, Daily Average",1687,1131,2516
+399,"0 Fountain Road, Fordsburg, Johannesburg",595,"0 Van Der Post Avenue, Parkrand, Boksburg","07/31/2016 - 08/28/2016, Every day, Daily Average",1594,1108,2292
+399,"0 Fountain Road, Fordsburg, Johannesburg",598,"0 De Wet Street, Cinderella, Boksburg","07/31/2016 - 08/28/2016, Every day, Daily Average",1629,1060,2501
+399,"0 Fountain Road, Fordsburg, Johannesburg",602,"Crescent, Othandweni, Thokoza","07/31/2016 - 08/28/2016, Every day, Daily Average",1873,1362,2575
+399,"0 Fountain Road, Fordsburg, Johannesburg",605,"0 Sunnyside Avenue, Lakefield, Benoni","07/31/2016 - 08/28/2016, Every day, Daily Average",2568,1422,4634
+399,"0 Fountain Road, Fordsburg, Johannesburg",610,"Moagi Road, Vosloorus, Vosloorus","07/31/2016 - 08/28/2016, Every day, Daily Average",1583,1143,2191
+399,"0 Fountain Road, Fordsburg, Johannesburg",611,"0 Jack Rabie Avenue, Reiger Park, Boksburg","07/31/2016 - 08/28/2016, Every day, Daily Average",1571,989,2493
+399,"0 Fountain Road, Fordsburg, Johannesburg",616,"0 Madeley Road, Driefontein 85-Ir, Boksburg","07/31/2016 - 08/28/2016, Every day, Daily Average",2157,1118,4158
+399,"0 Fountain Road, Fordsburg, Johannesburg",617,"0 Malcolm Moodie Crescent, Jet Park, Boksburg","07/31/2016 - 08/28/2016, Every day, Daily Average",1614,1012,2573
+399,"0 Fountain Road, Fordsburg, Johannesburg",619,"0 Roman Road, Impala Park (Witkoppie Ridge), Boksburg","07/31/2016 - 08/28/2016, Every day, Daily Average",1817,1112,2966
+399,"0 Fountain Road, Fordsburg, Johannesburg",620,"600 Trichardts Road, Beyers Park, Boksburg","07/31/2016 - 08/28/2016, Every day, Daily Average",2145,1068,4307
+399,"0 Fountain Road, Fordsburg, Johannesburg",652,"100 Mary Moodley Street, Tamboville, Brakpan","07/31/2016 - 08/28/2016, Every day, Daily Average",1830,1241,2697
+399,"0 Fountain Road, Fordsburg, Johannesburg",656,"0 Lower Road, Rand Collieries SH, Brakpan","07/31/2016 - 08/28/2016, Every day, Daily Average",1898,1302,2764
+399,"0 Fountain Road, Fordsburg, Johannesburg",725,"R550, De Deur","07/31/2016 - 08/28/2016, Every day, Daily Average",1109,842,1459
+399,"0 Fountain Road, Fordsburg, Johannesburg",814,"R41, Rietvallei 241-Iq, Krugersdorp","07/31/2016 - 08/28/2016, Every day, Daily Average",1817,1503,2195
+399,"0 Fountain Road, Fordsburg, Johannesburg",817,"Chamdor Road, Witpoortje 245 IQ, Krugersdorp","07/31/2016 - 08/28/2016, Every day, Daily Average",1999,1591,2511
+399,"0 Fountain Road, Fordsburg, Johannesburg",866,"0 3rd Street, West Rand AH, Westonaria","07/31/2016 - 08/28/2016, Every day, Daily Average",1591,1166,2169
+399,"0 Fountain Road, Fordsburg, Johannesburg",933,"0 Booysens Station, Stafford, Johannesburg","07/31/2016 - 08/28/2016, Every day, Daily Average",168,54,514
+399,"0 Fountain Road, Fordsburg, Johannesburg",934,"0 Short Street, Booysens, Johannesburg","07/31/2016 - 08/28/2016, Every day, Daily Average",251,143,438
